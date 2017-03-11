@@ -1,0 +1,6 @@
+E:\Workspaces\Visual Studio\WEB_NETCORE\test\Hong.Base.Test\bin\Debug\net46\Hong.Base.Test.deps.json
+E:\Workspaces\Visual Studio\WEB_NETCORE\test\Hong.Base.Test\bin\Debug\net46\Hong.Base.Test.runtimeconfig.json
+E:\Workspaces\Visual Studio\WEB_NETCORE\test\Hong.Base.Test\bin\Debug\net46\Hong.Base.Test.runtimeconfig.dev.json
+E:\Workspaces\Visual Studio\WEB_NETCORE\test\Hong.Base.Test\obj\Debug\net46\Hong.Base.Test.csprojResolveAssemblyReference.cache
+E:\Workspaces\Visual Studio\WEB_NETCORE\test\Hong.Base.Test\obj\Debug\net46\Hong.Base.Test.csproj.Hong.Base.Test.exe.config
+E:\Workspaces\Visual Studio\WEB_NETCORE\test\Hong.Base.Test\obj\Debug\net46\Hong.Base.Test.AssemblyInfo.cs
